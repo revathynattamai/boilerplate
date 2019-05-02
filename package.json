@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "This main aim of the project is to show what all the features that we need to know to create a react application and why do we need those features.  As a first step i have created a index.html file where all the begineers will be excited to see their code working in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revathynattamai/boilerplate.git"
+  },
+  "author": "Revathy gopinath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revathynattamai/boilerplate/issues"
+  },
+  "homepage": "https://github.com/revathynattamai/boilerplate#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
